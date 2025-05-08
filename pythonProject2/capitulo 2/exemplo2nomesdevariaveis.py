@@ -1,6 +1,7 @@
 # não podemos começar com numeros
-76trobones = "big parade"
+# 76trobones = "big parade"
 
 # sem caracteres especiais
-more@ = 1000
+# more@ = 1000
+
 
